@@ -20,6 +20,8 @@
 
 整合的数据：ans.csv,ans.txt
 
+### **实验二**
+
 读取实验一生成的csv文件，再使用题目要求的方法实现
 
 图使用matplotlib实现，由于我使用的是Anaconda，所以直接在Anaconda Prompt输入命令conda install matplotlib，然后等待即可（第一次安装matplotlib安装完成了，但是却显示import matplotlib ImportError: DLL load failed，在网上试了很多方法最终才解决。原因是matplotlib库跟numpy库不兼容问题。我numpy库两年前安装的，跟现在安装的matplotlib不兼容，最后删掉numpy跟matplotlib，再安装matplotlib，然后他会自动安装numpy库，才解决了问题。
